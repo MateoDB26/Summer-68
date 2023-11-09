@@ -1,0 +1,22 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583.19 601">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: red;
+      }
+
+      .cls-2 {
+        font-size: 98.52px;
+        font-family: Lato-Black, Lato;
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.03em;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="468.85 551.17 289.77 457.02 110.68 551.17 144.88 351.75 0 210.53 200.22 181.43 289.77 0 379.31 181.43 579.53 210.53 434.65 351.75 468.85 551.17"/>
+  <polygon class="cls-1" points="299.79 601 204.91 422.3 3.92 399.15 144.55 253.69 104.46 55.38 286.25 144.18 462.47 44.77 434.19 245.11 583.19 381.98 383.92 416.99 299.79 601"/>
+  <text class="cls-2" transform="translate(122.93 329.45)">NUE<tspan class="cls-3" x="201.67" y="0">V</tspan><tspan x="271.32" y="0">O</tspan></text>
+</svg>
