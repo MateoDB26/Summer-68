@@ -52,7 +52,8 @@ Input {
 	align-items: center;
 	padding-top: 80px;
     margin-left: 100px;
-    margin-right: 100px}
+    margin-right: 100px;
+    }
 .cd {
 	position: relative;
 	text-align: center;
@@ -60,7 +61,7 @@ Input {
     font-size: 30pt;
     padding-left: 53px;
     padding-right: 53px;
-    padding-bottom: 100px}
+    padding-bottom: 80px}
 .cd:hover {
 	animation: pulse;
 	animation-duration: 2s;}
@@ -71,7 +72,7 @@ Input {
     font-size: 30pt;
     padding-left: 53px;
     padding-right: 53px;
-    padding-bottom: 100px}
+    padding-bottom: 80px}
 .vinilo:hover {
 	animation: pulse;
 	animation-duration: 2s;}
@@ -82,7 +83,7 @@ Input {
     font-size: 30pt;
     padding-left: 53px;
     padding-right: 53px;
-    padding-bottom: 100px}
+    padding-bottom: 80px}
 .cassette:hover {
 	animation: pulse;
 	animation-duration: 2s;}
@@ -269,7 +270,7 @@ Input {
     text-align-last: center;
     flex: 1}
 .carta {
-	margin: 20px;
+	margin: 70px;
     flex: 1}
 .texto-disco {
 	color: #FF5A00;
