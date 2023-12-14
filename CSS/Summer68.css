@@ -268,11 +268,16 @@ Input {
 	justify-content: center;
 	top: -85px}
 h4 {
-	color: #A5D0ED}
+	color: #A5D0ED;
+    font-size: 15px}
+h3 {
+	font-size: 20px
+}
 .precio {
 	color: #FFFFFF;
 	position: relative;
-	top: 12px}
+	top: 12px;
+    font-size: 15px}
 .carta:hover {
 	animation: pulse;
 	animation-duration: 10s;}
@@ -332,7 +337,6 @@ h4 {
 	font-size: 30px;
 	color: #5A821E;
 	padding-top: 2%;}
-
 .precio-disco {
 	font-size: 30px;
 	color: #5A821E;
