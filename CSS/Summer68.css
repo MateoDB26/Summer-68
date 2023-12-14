@@ -60,7 +60,7 @@ Input {
     font-size: 30pt;
     padding-left: 53px;
     padding-right: 53px;
-    padding-bottom: 60px}
+    padding-bottom: 100px}
 .cd:hover {
 	animation: pulse;
 	animation-duration: 2s;}
@@ -71,7 +71,7 @@ Input {
     font-size: 30pt;
     padding-left: 53px;
     padding-right: 53px;
-    padding-bottom: 60px}
+    padding-bottom: 100px}
 .vinilo:hover {
 	animation: pulse;
 	animation-duration: 2s;}
@@ -82,7 +82,7 @@ Input {
     font-size: 30pt;
     padding-left: 53px;
     padding-right: 53px;
-    padding-bottom: 60px}
+    padding-bottom: 100px}
 .cassette:hover {
 	animation: pulse;
 	animation-duration: 2s;}
