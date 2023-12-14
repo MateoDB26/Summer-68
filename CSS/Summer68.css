@@ -45,8 +45,6 @@ Input {
 	font-size: 46pt;
 	text-align: center;
 	margin-top: 5%}
-a {
-	font-size: 30pt;}
 .display {
 	display: flex;
 	flex-wrap: wrap;
@@ -58,21 +56,24 @@ a {
 .cd {
 	position: relative;
 	text-align: center;
-    flex: 1}
+    flex: 1;
+    font-size: 30pt}
 .cd:hover {
 	animation: pulse;
 	animation-duration: 2s;}
 .vinilo {
 	position: relative;
 	text-align: center;
-    flex: 1}
+    flex: 1;
+    font-size: 30pt}
 .vinilo:hover {
 	animation: pulse;
 	animation-duration: 2s;}
 .cassette {
 	position: relative;
 	text-align: center;
-    flex: 1}
+    flex: 1;
+    font-size: 30pt}
 .cassette:hover {
 	animation: pulse;
 	animation-duration: 2s;}
@@ -265,7 +266,7 @@ a {
 	color: #FF5A00;
 	position: relative;
 	justify-content: center;
-	top: -93px}
+	top: -85px}
 h4 {
 	color: #A5D0ED}
 .precio {
@@ -327,6 +328,11 @@ h4 {
 .banda {
     font-size: 25px;
     color: #A5D0ED}
+.precio-disco {
+	font-size: 30px;
+	color: #5A821E;
+	padding-top: 2%;}
+
 .precio-disco {
 	font-size: 30px;
 	color: #5A821E;
