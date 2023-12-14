@@ -52,8 +52,7 @@ Input {
 	align-items: center;
 	padding-top: 80px;
     margin-left: 100px;
-    margin-right: 100px;
-    }
+    margin-right: 100px}
 .cd {
 	position: relative;
 	text-align: center;
@@ -232,8 +231,8 @@ Input {
 	left: 34%;
 	border-color: #F29222;
 	width: 30%;
-	height: 60px;
 	border-radius: 30px;
+	height: 60px;
 	background-color: #F29222;
     text-align-last: center;
 	font-family: 'Lato', sans-serif;
